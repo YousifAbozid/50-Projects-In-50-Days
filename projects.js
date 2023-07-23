@@ -3,6 +3,7 @@ const projects = [
   { name: 'Progress Steps', link: '02-progress-steps' },
   { name: 'Rotating Navigation', link: '03-rotating-navigation' },
   { name: 'Hidden Search', link: '04-hidden-search' },
+  { name: 'Blurry Loading', link: '05-blurry-loading' },
 ]
 
 export default projects
