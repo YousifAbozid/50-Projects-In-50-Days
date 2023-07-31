@@ -4,6 +4,7 @@ const projects = [
   { name: 'Rotating Navigation', link: '03-rotating-navigation' },
   { name: 'Hidden Search', link: '04-hidden-search' },
   { name: 'Blurry Loading', link: '05-blurry-loading' },
+  { name: 'Scroll Animation', link: '06-scroll-animation' },
 ]
 
 export default projects
