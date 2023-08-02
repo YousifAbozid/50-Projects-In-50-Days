@@ -5,6 +5,7 @@ const projects = [
   { name: 'Hidden Search', link: '04-hidden-search' },
   { name: 'Blurry Loading', link: '05-blurry-loading' },
   { name: 'Scroll Animation', link: '06-scroll-animation' },
+  { name: 'Split Landing Page', link: '07-split-landing-page' },
 ]
 
 export default projects
